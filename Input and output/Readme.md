@@ -37,7 +37,8 @@ print("I am", age, "years old!")
 ```
 Here, `print()` displays a message along with the variable `age`.
 
-> [!TIP] You can print multiple things!
+> [!TIP]
+> You can print multiple things!
 > Just separate them with commas like in the example above.
 
 ## Converting Input to Other Data Types
