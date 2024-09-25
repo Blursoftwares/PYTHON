@@ -24,7 +24,8 @@ print("Hello, " + name + "!")
 - Here, input() asks the user for their name.
 - The program then greets the user by printing out "Hello, [name]!".
 
-> [!note] Input always comes in as a string!
+> [!NOTE]
+> Input always comes in as a string!
 > Even if the user types a number, Python will treat it like text unless we convert it.
 
 ## Introduction to Output
@@ -36,7 +37,7 @@ print("I am", age, "years old!")
 ```
 Here, `print()` displays a message along with the variable `age`.
 
-> [!tip] You can print multiple things!
+> [!TIP] You can print multiple things!
 > Just separate them with commas like in the example above.
 
 ## Converting Input to Other Data Types
