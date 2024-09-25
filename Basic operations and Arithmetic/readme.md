@@ -51,7 +51,8 @@ The order is:
 3. Multiplication (*) and Division (/): Do these next.
 4. Addition (+) and Subtraction (-): Do these last.
 
-> [!note] PEMDAS Rule!
+> [!NOTE]
+>  PEMDAS Rule!
 > Remember the order by using this phrase: "Please Excuse My Dear Aunt Sally" (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction).
 
 Let,s look at htis simple example:
