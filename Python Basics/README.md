@@ -24,7 +24,8 @@ In this example:
 - `my_number` is a variable that holds the number `5`.
 - `my_text` is a variable that holds the word `"Hello!"`.
 
-> [!important] Variables can change!
+> [!IMPORTANT]
+> Variables can change!
 > Just like a box, you can put something new inside it. If you assign a new value to the variable, it will forget the old one and remember the new one.
 
 ```python
@@ -50,7 +51,8 @@ my_string = "Python is fun!"
 ```python
 my_boolean = True
 ```
-> [!note] Fun Fact
+> [!NOTE]
+>  Fun Fact
 > Computers need to know the type of data so they know how to work with it. For example, you can add numbers but not mix numbers and words.
 
 In the next module, we will learn how to work with these data types and use them in programs!
