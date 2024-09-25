@@ -8,7 +8,7 @@
 ## What is Python?
 Python is a simple, easy-to-learn programming language that helps us talk to computers. It’s like giving the computer a set of instructions to follow, and the computer does what we say. Many people use Python to create games, websites, and even robots!
 
-> [!Note] Python is like a recipe!
+> [!NOTE] Python is like a recipe!
 > Just like a recipe tells you what steps to follow to bake a cake, Python tells the computer what steps to follow to do a task.
 
 ## Why Do We Use Python?
@@ -17,7 +17,7 @@ Python is a simple, easy-to-learn programming language that helps us talk to com
 **Lots of Cool Stuff**: With Python, you can create fun things like games, apps, and even programs that can talk back to you!
 **Popular**: Many people all over the world use Python, so you can easily find help when you’re stuck.
 
-> [!Important] Python is everywhere!
+> [!IMPORTANT] Python is everywhere!
 > You can use Python to make apps, websites, and even control robots.
 
 ## Running Python Code
