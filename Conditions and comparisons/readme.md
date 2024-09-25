@@ -61,7 +61,8 @@ else:
 ```
 Here, the program checks if the number guessed by the user is equal to 5.
 
-> [!tip] Use comparison operators to make decisions!
+> [!TIP]
+> Use comparison operators to make decisions!
 > We can use comparisons to decide what our program should do, like checking if someone is old enough to drive or if they guessed the correct number.
  
 In the next module, we will learn about loops, which allow us to do things over and over again in our programs!
