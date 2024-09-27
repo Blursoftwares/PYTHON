@@ -30,26 +30,7 @@ In this example:
 
 ```python
 my_number = 10  # Now my_number holds the value 10 instead of 5
-```
 
-## Common Data Types
-Data types tell us what kind of data is stored in a variable. Here are some common ones:
-
-1. Integers: Whole numbers like 1, 2, 3, or -5.
-```python
-my_integer = 7
-```
-2. Floats: Numbers with decimals like 3.14 or -2.5.
-```python
-my_float = 3.14
-```
-3. Strings: Text like words or sentences. Always put text in quotes.
-```python
-my_string = "Python is fun!"
-```
-4. Booleans: True or False values. Used for answering questions like yes or no.
-```python
-my_boolean = True
 ```
 > [!NOTE]
 >  Fun Fact
