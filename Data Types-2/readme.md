@@ -56,8 +56,8 @@ A tuple is like a list, but it's immutable, meaning you can't change its content
 ```python
 coordinates = (10.0, 20.0)
 ```
-[!tip]
-Use tuples when you need to store data that shouldn't change.
+> [!tip]
+> Use tuples when you need to store data that shouldn't change.
 
 ## 7. Sets (`set`)
 A set is an unordered collection of unique items. This means no duplicates are allowed.
